@@ -10,7 +10,7 @@ Para poder ejecutar este proyecto correctamente, necesitas los siguientes requis
 
 - **Java Development Kit (JDK)**: Versión 19.
 - **Apache Tomcat**: Versión 9.
-- **Inicio de sesion Tomcat: Usuario: harrinson Contraseña: tomcat
+- **Inicio de sesion Tomcat:** Usuario: harrinson Contraseña: tomcat
 - **IDE compatible**: NetBeans, Eclipse, IntelliJ, o cualquier otro IDE compatible con proyectos Java.
 - URL: http://localhost:8080/coworking/index.jsp
 
